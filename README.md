@@ -1,3 +1,3 @@
 # DigitRecognition
 My first try with CNN using MNIST Dataset.
-Please go through other files for detailed understanding of the project.
+Please go through other files for detailed understanding of the projects.
